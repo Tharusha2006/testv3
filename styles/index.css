@@ -38,6 +38,7 @@ body {
     top: 98%;
     transform: translate(-50%, -98%);
     display: none;
+    z-index: 999;
 }
 
 .mobile-nav a {
